@@ -3,6 +3,7 @@ Web API FULL REST .Net Core.
 Aplicación base para operaciones crud en base de datos, permite paginación en la consulta.
 
 Uso de :
+* .Net Core
 * SQL Server
 * Dapper
 * AutoMapper

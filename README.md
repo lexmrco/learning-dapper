@@ -29,24 +29,24 @@ Uso de :
 * Método: POST
 * Body:
   * JSON Data: Datos a insertar
-   * NIT: Número de identificación del cliente
-   * Nombre: Nombre del cliente
-   * CorreoElectronico: Correo electrónico del cliente
+    * NIT: Número de identificación del cliente
+    * Nombre: Nombre del cliente
+    * CorreoElectronico: Correo electrónico del cliente
  * Response: OK. Datos insertados
  
  ### Actualizar cliente
  
- * Url: http://localhost:61193/api/clientes?id=[ide de cliente]
+ * Url: http://localhost:61193/api/clientes?id=[id del cliente]
 * Método: PUT
 * Body:
   * JSON Data: Datos a insertar
-   * NIT: Número de identificación del cliente
-   * Nombre: Nombre del cliente
-   * CorreoElectronico: Correo electrónico del cliente
+    * NIT: Número de identificación del cliente
+    * Nombre: Nombre del cliente
+    * CorreoElectronico: Correo electrónico del cliente
 * Response: OK. Datos Actualizados
   
 ### Actualizar cliente
  
- * Url: http://localhost:61193/api/clientes?id=[ide de cliente]
+ * Url: http://localhost:61193/api/clientes?id=[id del cliente]
 * Método: DELETE
 * Response: OK. Datos Eliminados

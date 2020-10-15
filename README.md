@@ -5,7 +5,7 @@ Aplicación base para operaciones crud en base de datos, permite paginación en 
 Uso de :
 * SQL Server
 * Dapper
-* Auto-mapping
+* AutoMapper
 * Capas. Datos, entidades, servicios web.
 
 ## Scafolding
